@@ -4,3 +4,5 @@ To add the .git directory that tracks everything
 
 Revision GDC - File 2 -- Pull before commit -- now after
 Again
+
+New line
