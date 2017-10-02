@@ -2,4 +2,4 @@ What happens when you initialize a repository? Why do you need to do it?
 
 To add the .git directory that tracks everything
 
-New line in file 2
+Revision GDC - File 2
