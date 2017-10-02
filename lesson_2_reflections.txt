@@ -3,3 +3,4 @@ What happens when you initialize a repository? Why do you need to do it?
 To add the .git directory that tracks everything
 
 Revision GDC - File 2 -- Pull before commit -- now after
+Again
