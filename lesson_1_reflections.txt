@@ -5,4 +5,4 @@ You only see what is changed. New change 2
 Revision on Github -- 2 - Pull before commit
 Another change
 
-On server for the session
+GDC
