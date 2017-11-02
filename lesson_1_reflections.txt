@@ -1,10 +1,1 @@
-111 How did viewing a diff between two versions of a file help you see the bug that was introduced?
-
-You only see what is changed. New change 2
-
-Revision on Github -- 2 - Pull before commit
-Another change
-
-Server change2345678
-
-NEW CHANGE FROM SERVER - UNDO REVERT
+My big change
